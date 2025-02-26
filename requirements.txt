@@ -1,0 +1,5 @@
+These libraries are required for dashboard.py:
+
+streamlit
+pandas
+plotly
